@@ -9168,7 +9168,6 @@ your	your/SL
 고객에	고객/NNG + 에/JKB
 고객에게*	고객/NNG + 에게/JKB
 고객에게는	고객/NNG + 에게/JKB + 는/JX
-고객예탁금*	고객/NNG + 예탁금/NNG
 고객으로	고객/NNG + 으로/JKB
 고객으로부터	고객/NNG + 으로부터/JKB
 고객은	고객/NNG + 은/JX
@@ -14372,10 +14371,6 @@ your	your/SL
 기관지염*	기관지염/NNG
 기관차	기관차/NNG
 기관총	기관총/NNG
-기관투자가*	기관/NNG + 투자가/NNG
-기관투자가들*	기관/NNG + 투자가/NNG + 들/XSN
-기관투자가들이	기관/NNG + 투자가/NNG + 들/XSN + 이/JKS
-기관투자가의	기관/NNG + 투자가/NNG + 의/JKG
 기괴한	기괴/XR + 하/XSA + ㄴ/ETM
 기교를	기교/NNG + 를/JKO
 기교적인	기교/NNG + 적/XSN + 이/VCP + ㄴ/ETM
@@ -39281,7 +39276,6 @@ your	your/SL
 사회.	사회/NNG + ./SF
 사회·경제*	사회/NNG + ·/SP + 경제/NNG
 사회·경제적	사회/NNG + ·/SP + 경제/NNG + 적/XSN
-사회간접자본*	사회/NNG + 간접/NNG + 자본/NNG
 사회개혁*	사회/NNG + 개혁/NNG
 사회개혁을	사회/NNG + 개혁/NNG + 을/JKO
 사회경제*	사회/NNG + 경제/NNG
@@ -43550,8 +43544,6 @@ your	your/SL
 소아에서*	소아/NNG + 에서/JKB
 소아에서는	소아/NNG + 에서/JKB + 는/JX
 소액	소액/NNG
-소액주주*	소액/NNG + 주주/NNG
-소액주주들*	소액/NNG + 주주/NNG + 들/XSN
 소양을	소양/NNG + 을/JKO
 소에게	소/NNG + 에게/JKB
 소여는	소여/NNP + 는/JX
@@ -45606,7 +45598,6 @@ your	your/SL
 시가지는	시가지/NNG + 는/JX
 시가지를	시가지/NNG + 를/JKO
 시가지의	시가지/NNG + 의/JKG
-시가총액*	시가/NNG + 총액/NNG
 시각	시각/NNG
 시각)	시각/NNG + )/SS
 시각,	시각/NNG + ,/SP
@@ -61514,9 +61505,6 @@ your	your/SL
 자기연출*	자기/NNG + 연출/NNG
 자기와는	자기/NP + 와/JKB + 는/JX
 자기와의	자기/NP + 와/JKB + 의/JKG
-자기자본*	자기/NNG + 자본/NNG
-자기자본비율*	자기/NNG + 자본/NNG + 비율/NNG
-자기자본비율이	자기/NNG + 자본/NNG + 비율/NNG + 이/JKS
 자기자신*	자기/NP + 자신/NNG
 자기장이	자기장/NNG + 이/JKS
 자기집	자기/NP + 집/NNG
@@ -61737,7 +61725,6 @@ your	your/SL
 자본금을	자본금/NNG + 을/JKO
 자본금이	자본금/NNG + 이/JKS
 자본수출*	자본/NNG + 수출/NNG
-자본시장*	자본/NNG + 시장/NNG
 자본에	자본/NNG + 에/JKB
 자본은	자본/NNG + 은/JX
 자본을	자본/NNG + 을/JKO
@@ -61772,7 +61759,6 @@ your	your/SL
 자비의	자비/NNG + 의/JKG
 자사	자사/NNG
 자사의	자사/NNG + 의/JKG
-자사주	자사/NNG + 주/NNG
 자산	자산/NNG
 자산가치*	자산/NNG + 가치/NNG
 자산에	자산/NNG + 에/JKB
@@ -63003,7 +62989,6 @@ your	your/SL
 장엄하고	장엄/NNG + 하/XSA + 고/EC
 장엄한	장엄/NNG + 하/XSA + ㄴ/ETM
 장외	장외/NNG
-장외시장*	장외/NNG + 시장/NNG
 장우근은	장우근/NNP + 은/JX
 장우근을	장우근/NNP + 을/JKO
 장우근의	장우근/NNP + 의/JKG
@@ -67016,7 +67001,6 @@ your	your/SL
 종합,	종합/NNG + ,/SP
 종합과세*	종합/NNG + 과세/NNG
 종합금융*	종합/NNG + 금융/NNG
-종합금융회사*	종합/NNG + 금융/NNG + 회사/NNG
 종합대책*	종합/NNG + 대책/NNG
 종합병원*	종합/NNG + 병원/NNG
 종합소득신고*	종합/NNG + 소득/NNG + 신고/NNG
@@ -67026,9 +67010,6 @@ your	your/SL
 종합적이고	종합/NNG + 적/XSN + 이/VCP + 고/EC
 종합적인	종합/NNG + 적/XSN + 이/VCP + ㄴ/ETM
 종합주가*	종합/NNG + 주가/NNG
-종합주가지수*	종합/NNG + 주가/NNG + 지수/NNG
-종합주가지수가	종합/NNG + 주가/NNG + 지수/NNG + 가/JKS
-종합주가지수는	종합/NNG + 주가/NNG + 지수/NNG + 는/JX
 종합하여	종합/NNG + 하/XSV + 여/EC
 종합한	종합/NNG + 하/XSV + ㄴ/ETM
 종합해	종합/NNG + 하/XSV + 여/EC
@@ -67746,7 +67727,6 @@ your	your/SL
 주주들의	주주/NNG + 들/XSN + 의/JKG
 주주에게	주주/NNG + 에게/JKB
 주주의	주주/NNG + 의/JKG
-주주총회*	주주/NNG + 총회/NNG
 주지스님*	주지/NNG + 스님/NNG
 주지시키*	주지/NNG + 시키/XSV
 주지의	주지/NNG + 의/JKG
@@ -77630,7 +77610,6 @@ your	your/SL
 표준화에	표준/NNG + 화/XSN + 에/JKB
 표지	표지/NNG
 표지를	표지/NNG + 를/JKO
-표지어음	표지/NNG + 어음/NNG
 표지에	표지/NNG + 에/JKB
 표지판을	표지판/NNG + 을/JKO
 표차로	표/NNG + 차/NNG + 로/JKB
